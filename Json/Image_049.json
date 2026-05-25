@@ -1,0 +1,100 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pick",
+      "score": null,
+      "points": [
+        [
+          1527.217797121928,
+          346.3971144097593
+        ],
+        [
+          1711.617544727345,
+          351.93076703332315
+        ],
+        [
+          1705.8511683953134,
+          544.0856442109301
+        ],
+        [
+          1521.4514207898965,
+          538.5519915873664
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0.03
+    },
+    {
+      "label": "pick_right",
+      "score": null,
+      "points": [
+        [
+          1211.1416739990705,
+          693.8429678253565
+        ],
+        [
+          1372.742117782645,
+          625.5193960485838
+        ],
+        [
+          1440.6724137931035,
+          786.1896551724137
+        ],
+        [
+          1279.0719700095287,
+          854.5132269491866
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 5.883185307179588
+    },
+    {
+      "label": "calyx",
+      "score": null,
+      "points": [
+        [
+          1585.5,
+          480.1551724137931
+        ],
+        [
+          1626.8793103448277,
+          480.1551724137931
+        ],
+        [
+          1626.8793103448277,
+          507.7413793103448
+        ],
+        [
+          1585.5,
+          507.7413793103448
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    }
+  ],
+  "imagePath": "Image_049.JPG",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 1921
+}

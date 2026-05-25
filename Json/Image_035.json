@@ -1,0 +1,130 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "incomplete",
+      "score": null,
+      "points": [
+        [
+          1378.716799477471,
+          429.40638252899276
+        ],
+        [
+          1862.2241379310346,
+          224.9827586206896
+        ],
+        [
+          2071.144730188787,
+          719.1264274365764
+        ],
+        [
+          1587.6373917352234,
+          923.5500513448796
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 5.883185307179588
+    },
+    {
+      "label": "pick_down",
+      "score": null,
+      "points": [
+        [
+          1151.707664690767,
+          217.12446656978454
+        ],
+        [
+          1318.8394230413849,
+          165.4245552509427
+        ],
+        [
+          1367.396551724138,
+          322.39655172413785
+        ],
+        [
+          1200.2647933735198,
+          374.0964630429796
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 5.983185307179587
+    },
+    {
+      "label": "calyx",
+      "score": null,
+      "points": [
+        [
+          1252.7420484030451,
+          311.48108144659346
+        ],
+        [
+          1289.266880923849,
+          296.0386299412504
+        ],
+        [
+          1301.0165722866097,
+          323.82926338099264
+        ],
+        [
+          1264.491739765806,
+          339.2717148863357
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 5.883185307179588
+    },
+    {
+      "label": "calyx",
+      "score": null,
+      "points": [
+        [
+          1764.3952781128642,
+          759.2225825423131
+        ],
+        [
+          1837.2241379310346,
+          728.4310344827586
+        ],
+        [
+          1852.27247718665,
+          764.0237038744945
+        ],
+        [
+          1779.4436173684796,
+          794.815251934049
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 5.883185307179588
+    }
+  ],
+  "imagePath": "Image_035.JPG",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 1921
+}

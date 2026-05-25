@@ -1,0 +1,131 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "direction": 0.5,
+      "label": "pick_up",
+      "score": null,
+      "points": [
+        [
+          1552.8610856552384,
+          667.7833600802494
+        ],
+        [
+          1737.4683517225164,
+          768.6347691760584
+        ],
+        [
+          1639.8103448275863,
+          947.3965517241379
+        ],
+        [
+          1455.2030787603085,
+          846.5451426283289
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 0.6699999999999997,
+      "label": "ignore",
+      "score": null,
+      "points": [
+        [
+          1715.332659082267,
+          726.4563389017827
+        ],
+        [
+          1852.2122529727942,
+          834.8997685966613
+        ],
+        [
+          1763.0862068965519,
+          947.3965517241379
+        ],
+        [
+          1626.206613006024,
+          838.9531220292589
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 6.123185307179586,
+      "label": "pick",
+      "score": null,
+      "points": [
+        [
+          203.11134065642398,
+          125.20100109091317
+        ],
+        [
+          420.0019828290334,
+          90.19930621858379
+        ],
+        [
+          448.4310344827585,
+          266.36206896551715
+        ],
+        [
+          231.54039231014906,
+          301.3637638378466
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "calyx",
+      "score": null,
+      "points": [
+        [
+          332.32083394049897,
+          260.58925441046216
+        ],
+        [
+          373.95329392202353,
+          253.44275863090806
+        ],
+        [
+          377.16192468019074,
+          272.13488352057215
+        ],
+        [
+          335.5294646986662,
+          279.2813793001263
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 6.113185307179586
+    }
+  ],
+  "imagePath": "Image_037.JPG",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 1921,
+  "description": ""
+}

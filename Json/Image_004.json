@@ -1,0 +1,101 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "direction": 0.30000000000000004,
+      "label": "shelter_leaf",
+      "score": null,
+      "points": [
+        [
+          1814.0596825953323,
+          712.3154903257714
+        ],
+        [
+          1942.1945799983862,
+          751.952258932546
+        ],
+        [
+          1903.603448275862,
+          876.7068965517242
+        ],
+        [
+          1775.468550872808,
+          837.0701279449495
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 2.7755575615628914e-17,
+      "label": "ignore",
+      "score": null,
+      "points": [
+        [
+          1736.320585038746,
+          859.1141867992967
+        ],
+        [
+          1859.6379310344828,
+          859.1141867992967
+        ],
+        [
+          1859.6379310344828,
+          976.7068965517242
+        ],
+        [
+          1736.320585038746,
+          976.7068965517242
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 0.30000000000000004,
+      "label": "calyx",
+      "score": null,
+      "points": [
+        [
+          1843.0424457940692,
+          834.4671060697813
+        ],
+        [
+          1873.5143855334206,
+          843.8931816270828
+        ],
+        [
+          1868.1644507576552,
+          861.1880663440119
+        ],
+        [
+          1837.6925110183038,
+          851.7619907867105
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Image_004.JPG",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 1921,
+  "description": ""
+}

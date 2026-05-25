@@ -1,0 +1,101 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "direction": 0.6799999999999999,
+      "label": "pick",
+      "score": null,
+      "points": [
+        [
+          1570.9884632278865,
+          139.35971688403237
+        ],
+        [
+          1873.472475136099,
+          383.96685391236764
+        ],
+        [
+          1649.293103448276,
+          661.1896551724137
+        ],
+        [
+          1346.8090915400637,
+          416.58251814407856
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 0.6799999999999999,
+      "label": "pick_down",
+      "score": null,
+      "points": [
+        [
+          1082.3101090920914,
+          352.2092554989647
+        ],
+        [
+          1340.396551724138,
+          560.9137931034484
+        ],
+        [
+          1152.8276943530861,
+          792.8636093512989
+        ],
+        [
+          894.7412517210392,
+          584.159071746815
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 0.7,
+      "label": "calyx",
+      "score": null,
+      "points": [
+        [
+          1557.587369530997,
+          447.4451756856307
+        ],
+        [
+          1599.1262124611026,
+          482.4328604235398
+        ],
+        [
+          1569.1367684000375,
+          518.037582935059
+        ],
+        [
+          1527.597925469932,
+          483.04989819715007
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Image_001.JPG",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 1921,
+  "description": ""
+}

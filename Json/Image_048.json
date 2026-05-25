@@ -1,0 +1,131 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "direction": 0.1,
+      "label": "shelter_leaf",
+      "score": null,
+      "points": [
+        [
+          884.6017486276951,
+          673.2920392548245
+        ],
+        [
+          1082.7448194718538,
+          693.1726592939774
+        ],
+        [
+          1063.1223893033393,
+          888.7424435037962
+        ],
+        [
+          864.9793184591806,
+          868.8618234646433
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 0,
+      "label": "incomplete",
+      "score": null,
+      "points": [
+        [
+          530.3275862068964,
+          950.844827586207
+        ],
+        [
+          743.2586206896551,
+          950.844827586207
+        ],
+        [
+          743.2586206896551,
+          1081.0172413793102
+        ],
+        [
+          530.3275862068964,
+          1081.0172413793102
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 6.183185307179587,
+      "label": "incomplete",
+      "score": null,
+      "points": [
+        [
+          1294.5033840128121,
+          974.1101682948075
+        ],
+        [
+          1491.2423633441513,
+          954.3704273171714
+        ],
+        [
+          1503.603448275862,
+          1077.5689655172414
+        ],
+        [
+          1306.864468944523,
+          1097.3087064948777
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 0.2,
+      "label": "calyx",
+      "score": null,
+      "points": [
+        [
+          949.4826775160548,
+          811.9727091661476
+        ],
+        [
+          986.6576166755501,
+          819.5084424032017
+        ],
+        [
+          981.862150070152,
+          843.1652218683352
+        ],
+        [
+          944.6872109106566,
+          835.6294886312811
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Image_048.JPG",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 1921,
+  "description": ""
+}

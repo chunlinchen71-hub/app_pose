@@ -1,0 +1,100 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "pick",
+      "score": null,
+      "points": [
+        [
+          1570.844827586207,
+          311.1896551724137
+        ],
+        [
+          1741.5344827586207,
+          311.1896551724137
+        ],
+        [
+          1741.5344827586207,
+          499.1206896551724
+        ],
+        [
+          1570.844827586207,
+          499.1206896551724
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    },
+    {
+      "label": "calyx",
+      "score": null,
+      "points": [
+        [
+          1645.844827586207,
+          390.49999999999994
+        ],
+        [
+          1673.4310344827586,
+          390.49999999999994
+        ],
+        [
+          1673.4310344827586,
+          414.6379310344827
+        ],
+        [
+          1645.844827586207,
+          414.6379310344827
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    },
+    {
+      "label": "ignore",
+      "score": null,
+      "points": [
+        [
+          1772.4137931034484,
+          364.6379310344827
+        ],
+        [
+          1919.8275862068967,
+          364.6379310344827
+        ],
+        [
+          1919.8275862068967,
+          518.9482758620688
+        ],
+        [
+          1772.4137931034484,
+          518.9482758620688
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    }
+  ],
+  "imagePath": "Image_059.JPG",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 1921
+}

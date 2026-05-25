@@ -1,0 +1,101 @@
+{
+  "version": "2.4.3",
+  "flags": {},
+  "shapes": [
+    {
+      "kie_linking": [],
+      "direction": 0.02,
+      "label": "shelter_leaf",
+      "score": null,
+      "points": [
+        [
+          1541.1931268937794,
+          672.9189314397569
+        ],
+        [
+          1745.1326983500892,
+          676.9982667947685
+        ],
+        [
+          1740.6724137931035,
+          899.9827586206895
+        ],
+        [
+          1536.732842336794,
+          895.9034232656778
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 0.2,
+      "label": "ignore",
+      "score": null,
+      "points": [
+        [
+          1571.8965698263773,
+          120.44921128454058
+        ],
+        [
+          1801.2955507837282,
+          166.9506868600584
+        ],
+        [
+          1758.7758620689656,
+          376.70689655172407
+        ],
+        [
+          1529.3768811116154,
+          330.20542097620637
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "kie_linking": [],
+      "direction": 0.4,
+      "label": "incomplete",
+      "score": null,
+      "points": [
+        [
+          1394.239618643676,
+          -61.76948346785001
+        ],
+        [
+          1632.0517241379312,
+          38.77586206896544
+        ],
+        [
+          1549.1199659321226,
+          234.92791591060646
+        ],
+        [
+          1311.3078604378672,
+          134.38257037379108
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "Image_026.JPG",
+  "imageData": null,
+  "imageHeight": 1081,
+  "imageWidth": 1921,
+  "description": ""
+}
